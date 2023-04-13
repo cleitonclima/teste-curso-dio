@@ -15,7 +15,6 @@ public class PrimeiroPrograma {
         Livro livro = new Livro("Teste", 200);
 
         System.out.println(livro);
-        
 
 
     }
